@@ -7,7 +7,7 @@
 </head>
 <body>
     <h2>Formulario de Contacto</h2>
-    <form action="#" method="post">
+    <form action="recibe_formulario.php" method="post">
         <label for="nombre">Nombre:</label><br>
         <input type="text" id="nombre" name="nombre" required><br><br>
 
